@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Next**
 
-- 👨‍💻 All of my projects are available on this profile
+- 👨‍💻 All of my projects are available on **this profile**
 
 - 🌍 I live in **Czech Repiblic**
 
