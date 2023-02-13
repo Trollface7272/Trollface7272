@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trollface7272&label=Profile%20views&color=0e75b6&style=flat" alt="trollface7272" /> </p>
 
-- 🔭 I’m currently **looking for a job**
+- 🔭 I’m currently working at **Foxcom**
 
 - 🌱 I’m currently learning **React, Next**
 
