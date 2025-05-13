@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available on **this profile**
 
-- 🌍 I live in **Czech Repiblic**
+- 🌍 I live in **Czech Republic**
 
 - 📫 How to reach me **trollface7272@post.cz**
 
